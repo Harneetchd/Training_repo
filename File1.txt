@@ -1,0 +1,3 @@
+This is automation entry.
+To share at some other location:
+1) git clone

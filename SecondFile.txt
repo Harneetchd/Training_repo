@@ -1,0 +1,6 @@
+Second File in Main.
+To Merge the code of two Branches:
+1)git pull origin main(or master/whichever)//
+2)git checkout main 
+3)git status (to check status)
+4)git merge automation(the branch that you created)
