@@ -1,3 +1,5 @@
 This is my first attempt at updating a file.
 Command to show how many branches are there:
 1)git branch -a
+To change branch 
+2) git checkout <branchname>
