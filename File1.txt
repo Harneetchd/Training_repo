@@ -1,3 +1,5 @@
 This is automation entry.
 To share at some other location:
 1) git clone
+To forcefully push into central repository(not preferred)
+git push -f origin main
